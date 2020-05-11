@@ -7,6 +7,7 @@ Tutorial available here: https://www.youtube.com/watch?v=Gd3XznTN7uE&list=PLXqRw
 » Pre-requisites to this course include:
 
 Visual Studio Code: https://code.visualstudio.com/download
+
 Node.js: https://nodejs.org/en/download/
 
 » Steps to use this project:
